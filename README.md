@@ -4,6 +4,7 @@ Un proyecto realizado completamente en Java, con una interfaz grafica, la cual d
 <br />
 <br />
 Este Proyecto fue realizado para la Materia Progrmamacion Orientada a Objetos, de la carera de ingenieria de sistemas en la universidad EAN, por los estudiantes de 3er semestre:
--Andres Camilo Castro Bravo.
--Diego Alejandro Ciro Marin
--Sergio Alejandro Hurtado Soto
+<br/>
+-Andres Camilo Castro Bravo.<br/>
+-Diego Alejandro Ciro Marin<br/>
+-Sergio Alejandro Hurtado Soto<br/>
